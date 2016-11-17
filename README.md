@@ -1,6 +1,6 @@
 # My-gold-mine-
 A way up
-Hello ouut there
+Hello out there
 i'm that simple guy 
 with a simple solution 
 to complex question
